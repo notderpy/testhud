@@ -1,0 +1,9 @@
+// remove this DummyTauntWorkshop when we actually have some real sound entries in this file
+"DummyTauntWorkshop"
+{
+  "channel"			"CHAN_STATIC"
+  "volume"			"VOL_NORM"
+  "pitch"				"PITCH_NORM"
+  "soundlevel"		"SNDLVL_95dB"
+  "wave"				"physics/wood/wood_panel_break1.wav"
+}
